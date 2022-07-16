@@ -1,0 +1,6 @@
+body {
+    height: 800px;
+    background-image: url("fondoo.jpg");
+  background-size: 75rem;
+  }
+  .foto1 { padding: 10px; margin: 10px; border: 2px solid black; float: left; width: 250px; }
